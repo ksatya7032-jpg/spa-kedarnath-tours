@@ -1,4 +1,4 @@
-
+Kedarnath SPS Tours & Travels
 export default function SPAKedarnathToursWebsite() { const packages = [ { title: "Char Dham Yatra", desc: "Complete spiritual journey covering Kedarnath, Badrinath, Gangotri & Yamunotri with comfortable travel and stay.", }, { title: "Do Dham Yatra", desc: "Special Uttarakhand pilgrimage packages for Kedarnath & Badrinath with taxi and hotel support.", }, { title: "Single Dham Tours", desc: "Affordable and flexible tours for Kedarnath, Badrinath, Gangotri or Yamunotri.", }, { title: "Taxi Services", desc: "Reliable taxi services from Rishikesh, Haridwar, Dehradun and across Uttarakhand.", }, ];
 
 const destinations = [ "Kedarnath", "Badrinath", "Gangotri", "Yamunotri", "Rishikesh", "Haridwar", "Auli", "Mussoorie", ];
